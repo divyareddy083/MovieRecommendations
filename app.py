@@ -28,7 +28,7 @@ def recommend(movie):
         recommended_movies_poster.append(fetch_poster(movie_id))
     return recommended_movies, recommended_movies_poster
 
-st.markdown('Created by Divya Reddy On July 3rd 2022')
+st.markdown('Created by Divya Reddy On July 4th 2022')
 
 st.title('Movie Recommender System')
 
